@@ -1,27 +1,46 @@
-# Security Audit — Google Cybersecurity Certificate
+# Security Audit — Botium Toys
 
 ## Project Status
-Completed
+Completed — Google Cybersecurity Certificate portfolio activity
 
-## Overview
-This project is part of the Google Cybersecurity Professional Certificate on Coursera. I am learning how to conduct security audits, assess risks, and evaluate security controls.
+## Project Overview
+Conducted a simulated internal security audit for Botium Toys, a fictional retail and e-commerce organization, as part of the Google Cybersecurity Professional Certificate.
 
-## Project Objectives
-- Understand the security audit process.
-- Identify security risks and vulnerabilities.
-- Evaluate security controls.
-- Understand compliance requirements.
-- Recommend security improvements.
+Reviewed the organization's scope, assets, risk assessment, security controls, and compliance best practices using the NIST Cybersecurity Framework (CSF) as a reference.
 
-## Skills Being Developed
-- Security Auditing
-- Risk Assessment
-- Security Controls
-- Compliance
-- Security Documentation
+## Risk Assessment
+- Overall risk score: 8/10 (High)
+- Excessive employee access to sensitive customer information
+- Unencrypted payment card data
+- Missing disaster recovery plan and critical data backups
+- No intrusion detection system
+- Weak password management practices
 
-## Project Deliverables
-My audit findings and recommendations will be added after completing the Coursera activity.
+## Existing Security Controls
+- Firewall
+- Antivirus software
+- Physical locks
+- CCTV surveillance
+- Fire detection and prevention systems
 
-## Key Takeaways
-To be updated after completing the project.
+## Key Recommendations
+1. Implement least privilege access and separation of duties.
+2. Encrypt sensitive payment information.
+3. Establish regular backups and a disaster recovery plan.
+4. Deploy an intrusion detection system.
+5. Strengthen password policies and centralized password management.
+6. Improve asset inventory and legacy system maintenance.
+
+## Skills Demonstrated
+- Security auditing
+- Risk assessment
+- Security controls evaluation
+- NIST CSF fundamentals
+- PCI DSS and GDPR best-practice review
+- Security documentation and recommendations
+
+## Project Deliverable
+[View Completed Controls and Compliance Checklist](Botium_Toys_Completed_Controls_and_Compliance_Checklist.docx)
+
+## Disclaimer
+This project is based on a fictional educational scenario provided through the Google Cybersecurity Professional Certificate. It is not an audit of a real organization.
