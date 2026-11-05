@@ -1,7 +1,7 @@
 # Security Audit — Google Cybersecurity Certificate
 
 ## Project Status
-In Progress
+Completed
 
 ## Overview
 This project is part of the Google Cybersecurity Professional Certificate on Coursera. I am learning how to conduct security audits, assess risks, and evaluate security controls.
